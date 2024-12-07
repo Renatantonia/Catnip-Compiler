@@ -36,7 +36,7 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 - navega al directorio: ```cd catnip-compiler```
 - Asegurate de tener ply instalado correctamente
 
-## Ejemplo de código:
+### Ejemplo de código:
 
 ```
 KIBBLE (x) ~> 7
@@ -47,4 +47,12 @@ x PURR Y
 
 MEOW (=^-^=) 
 ```
+
+### Documentación del lenguaje:
+
+| Operador  | Símbolo   | Descripción               |
+|-----------|-----------|---------------------------|
+| Suma      | `PURR`    | Suma de dos números.      |
+| Resta     | `HISS`    | Resta de dos números.     |
+
 
