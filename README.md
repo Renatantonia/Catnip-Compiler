@@ -19,6 +19,13 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 - *Estructuras lógicas:* Condicionales **(<MEOW>,>MEOW<)**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
 
+### **Funciones Diversas:**
+- Funciones con retorno y sin retorno, ideales para estructurar tu código.
+- Soporte para imprimir mensajes usando ```MEOW.```
+
+### **Operadores definidos:**
+- Tokens para operadores lógicos (PURR_SYNC, PURR_OR_HISS, HISS_OFF) aunque aún no implementados en el parser.
+
 ***¡Mensajes de error temáticos!:*** Respuestas adorables (pero claras) cuando algo no sale bien.
 
 ### 🍣 Tabla de contenidos
@@ -129,5 +136,8 @@ Este compilador ofrece mensajes claros y adorables para ayudar en la depuración
      ```
 
   ### 💖CREDITOS:
-  Este proyecto fue realizado con cariño por ```Renata Cuello Caquisani```, Vicente Sanchéz, Diego Castro.
+  Este proyecto fue realizado con cariño por:
+  - **Renata Cuello Caquisani.** ```20.949.079-k```
+  - Vicente Sánchez. ```19.770.928-6```
+  - Diego Castro. ```18.633.660-7```
 
