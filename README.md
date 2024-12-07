@@ -41,6 +41,8 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
    - [Tipos de datos](#Tipos)
    - [Variables y como declararlas](#Variables)
    - [Operadores Aritméticos](#Operadores)
+   - [Operadores Relacionales](#Operadoresrelacionales)
+   - [Operadores Lógicos](#OperadoresLogicos)
    - [Estructuras de control](#Estructuras)
    - [Mensajes de error](#Mensajes)
 6. [Creditos](#Creditos)
@@ -114,6 +116,17 @@ KIBBLE (variable1) ~> 1
 | OR     | `PURR_OR_HISS`   | Realiza una disyunción lógica: devuelve verdadero si al menos una expresión es verdadera.   |
 | NOT | `!~` | Realiza una negación lógica: invierte el valor de una expresión booleana. |
 
+** Cabe destacar que también, tiene soporte para realizar operaciones combinadas y que además las resuelva por orden de procedencia **
+
+Ejemplo:
+```
+4 PURR 5 SCRATCH 3 HISS 1
+```
+Salida por consola:
+```
+Resultado: 18
+```
+
 ### Estructuras de control:
 
 - **Condicionales:**
@@ -176,6 +189,9 @@ Este compilador ofrece mensajes claros y adorables para ayudar en la depuración
      (=ＴωＴ=): Variable 'y' no definida.
 
      ```
+
+**Importante** -> Para probar algun código en el compilador se debe ejecutar el archivo yacc.py y colocar primero el codigo en la sección del final en la variable 
+```data = ''' (aqui un codigo) ''' ```
 
   ### 💖CREDITOS:
   Este proyecto fue realizado con cariño por:
