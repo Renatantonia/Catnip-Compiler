@@ -35,15 +35,15 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 ### 🍣 Tabla de contenidos
 1. [Requisitos](#Requisitos)
-2. Instalación
-3. Ejemplo de código
-4. Documentación del lenguaje
-   - Tipos de datos
-   - Variables y como declararlas
-   - Operadores Aritméticos
-   - Estructuras de control
-   - Mensajes de error
-6. Creditos
+2. [Instalación](#Instalación)
+3. [Ejemplo de código](#Ejemplodecódigo)
+4. [Documentación del lenguaje:]
+   - [Tipos de datos]
+   - [Variables y como declararlas]
+   - [Operadores Aritméticos]
+   - [Estructuras de control]
+   - [Mensajes de error]
+6. [Creditos]
 ### Requisitos:
 
 - python 3.8 o superior
