@@ -17,7 +17,9 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 - *TUNA:* Para cadenas de texto.
 
-- *Estructuras lógicas:* Condicionales **(<MEOW>,>MEOW<)**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
+- *Estructuras lógicas:* Condicionales **<MEOW> , >MEOW<**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
+  - IF: ```<MEOW>```
+  - Else: ```>MEOW<```
 
 ### **Funciones Diversas:**
 - Funciones con retorno y sin retorno, ideales para estructurar tu código.
