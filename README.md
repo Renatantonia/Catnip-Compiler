@@ -7,18 +7,18 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
  ### **🌱 Características principales**
 
-- *Sintaxis amigable:* Comandos que evocan sonidos y acciones de gatos, como MEOW, PURR, y PAWPRINT.
+- *Sintaxis amigable:* Comandos que evocan sonidos y acciones de gatos, como ***MEOW, PURR, y PAWPRINT.***
 
-Tipos de datos con temática felina:
+### **Tipos de datos con temática felina:**
 
-KIBBLE: Para enteros.
+- *KIBBLE:* Para enteros.
 
-MILK: Para flotantes.
+- *MILK:* Para flotantes.
 
-TUNA: Para cadenas de texto.
+- *TUNA:* Para cadenas de texto.
 
-Estructuras lógicas: Condicionales (IF_MEOW), ciclos (FOR_TWIRL, WHILE_TWIRL), y funciones.
+- *Estructuras lógicas:* Condicionales **(<MEOW>,>MEOW<)**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
 
-Mensajes de error temáticos: Respuestas adorables (pero claras) cuando algo no sale bien.
+***¡Mensajes de error temáticos!:*** Respuestas adorables (pero claras) cuando algo no sale bien.
 
 
