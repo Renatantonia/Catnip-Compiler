@@ -1,0 +1,15 @@
+KIBBLE (a) ~> 15
+KIBBLE (b) ~> 4
+KIBBLE (c) ~> 2
+
+4 PURR 5 SCRATCH 3 HISS 1
+
+KIBBLE (suma) ~> a PURR b
+KIBBLE (resta) ~> a HISS b 
+KIBBLE (producto) ~> a SCRATCH b 
+MILK (division) ~> a PAW b  
+KIBBLE (modulo) ~> a NIBBLE b 
+
+MILK (resultado) ~> suma PURR producto HISS division SCRATCH c
+
+MEOW resultado
