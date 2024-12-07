@@ -38,12 +38,13 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 ## Ejemplo de código:
 
-```KIBBLE (x) ~> 7
+```
+KIBBLE (x) ~> 7
 KIBBLE (y) ~> 3
-TUNA (saludo) ~> "Hola, CatLang!"
+TUNA (saludo) ~> "Hola, CatNip!"
 
-PAWPRINT >> sumar << [x, y]
-<.<
-    MEOW saludo
->.>```
+x PURR Y
+
+MEOW (=^-^=) 
+```
 
