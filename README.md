@@ -34,7 +34,7 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 ***¡Mensajes de error temáticos!:*** Respuestas adorables (pero claras) cuando algo no sale bien.
 
 ### 🍣 Tabla de contenidos
-1. Requisitos
+1. Requisitos:
 2. Instalación
 3. Ejemplo de código
 4. Documentación del lenguaje
