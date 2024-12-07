@@ -91,7 +91,9 @@ KIBBLE (variable1) ~> 1
     MEOW i
 >.>
 ```
-- **Funciones:**
+### **Funciones:**
+Las funciones pueden aceptar distintos parámetros.
+
 - Definir una función:
   ```
   PAWPRINT >> miFuncion << [param1, param2] <.<
@@ -112,6 +114,19 @@ Este compilador ofrece mensajes claros y adorables para ayudar en la depuración
 - *Operaciones no permitidas:* ```(=ＴωＴ=): Operación no válida entre KIBBLE y TUNA.```
 
 - *Variable no definida:* ```(=ＴωＴ=): Variable 'x' no definida.```
+
+- Validaciones:
+  1. Division entre 0:
+     ```
+     x PAW 0
+     (=ＴωＴ=): PAW entre cero no permitido.
+     ```
+  2. Uso de variables no declaradas:
+     ```
+     MEOW y
+     (=ＴωＴ=): Variable 'y' no definida.
+
+     ```
 
   ### 💖CREDITOS:
   Este proyecto fue realizado con cariño por ```Renata Cuello Caquisani```, Vicente Sanchéz, Diego Castro.
