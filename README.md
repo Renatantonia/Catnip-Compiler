@@ -7,7 +7,7 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
  ### **🌱 Características principales**
 
-Sintaxis amigable: Comandos que evocan sonidos y acciones de gatos, como MEOW, PURR, y PAWPRINT.
+- *Sintaxis amigable:* Comandos que evocan sonidos y acciones de gatos, como MEOW, PURR, y PAWPRINT.
 
 Tipos de datos con temática felina:
 
