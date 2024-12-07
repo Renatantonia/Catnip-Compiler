@@ -55,7 +55,16 @@ MEOW (=^-^=)
 - `KIBBLE` Enteros
 - `MILK` Flotantes
 - `TUNA` Cadenas de texto
-  
+
+### *Variables y como declararlas:*
+Para declarar una variable se hacer lo siguiente:
+1. Colocar el tipo de datos que almacenará la variable.
+2. entre parentesis "( )" escoger el nombre para la variable.
+3. luego con la sintaxis de asignación ```~>``` asignarle un valor.
+```
+KIBBLE (variable1) ~> 1
+```
+
 ### Operadores Aritmeticos:
 
 | Operador  | Símbolo   | Descripción               |
