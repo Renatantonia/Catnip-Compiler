@@ -48,11 +48,19 @@ x PURR Y
 MEOW (=^-^=) 
 ```
 
-### Documentación del lenguaje:
+### **Documentación del lenguaje:**
+
+### *Tipos de datos:*
+
+`KIBBLE` Enteros
+`MILK` Flotantes
+`TUNA` Cadenas de texto
 
 | Operador  | Símbolo   | Descripción               |
 |-----------|-----------|---------------------------|
 | Suma      | `PURR`    | Suma de dos números.      |
 | Resta     | `HISS`    | Resta de dos números.     |
-
+| Multiplicación | `SCRATCH` | Multiplicación de dos números. |
+| División | `PAW` | División de dos números. |
+| Módulo | `NIBBLE` | Resto de una división. |
 
