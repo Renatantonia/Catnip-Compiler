@@ -34,5 +34,16 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 - clona este repositorio: ```git clona "aqui repositorio"```
 
 - navega al directorio: ```cd catnip-compiler```
+- Asegurate de tener ply instalado correctamente
 
+## Ejemplo de código:
+
+```KIBBLE (x) ~> 7
+KIBBLE (y) ~> 3
+TUNA (saludo) ~> "Hola, CatLang!"
+
+PAWPRINT >> sumar << [x, y]
+<.<
+    MEOW saludo
+>.>```
 
