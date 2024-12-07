@@ -35,12 +35,6 @@ reserved = {
 # Tokens
 tokens = ['INTEGER','FLOAT','STRING','ID','POINT','COMMA','MINUS','LBRACKET','RBRACKET','LPAREN_FUNC','RPAREN_FUNC'] + list(reserved.values())
 
-'''
-MEOW -> print, MEOW_FUNC -> funcion, MEOW_RETURN -> retorno, IF_MEOW -> if, 
-ELSE_MEOW -> else, @TWIRL -> for,~TWIRL -> while, PURR -> +, HISS -> -,
-SCRATCH -> *, PAW -> /, NIBBLE -> %,PURR_SYNC -> &&, PURR_OR_HISS -> ||,
-HISS_OFF -> !, KIBBLE -> numeros enteros, MILK -> Flotantes, TUNA -> sTRING, ID -> identificador
-'''
 # Regular expressions for tokens
 
 t_MEOW = r'MEOW'                  # Imprimir en pantalla
@@ -107,7 +101,6 @@ def t_INTEGER(t):
     r'\d+'
     t.value = int(t.value) #convert to integer
     return t
-
 
 
 t_TUNA = r'TUNA' # STRING
