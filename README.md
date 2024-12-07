@@ -96,6 +96,24 @@ KIBBLE (variable1) ~> 1
 | División | `PAW` | División de dos números. |
 | Módulo | `NIBBLE` | Resto de una división. |
 
+### Operadores relacionales:
+
+| Operador  | Símbolo   | Descripción               |
+|-----------|-----------|---------------------------|
+| Mayor que     | `>>~`  | compara dos números, si uno es mayor que el otro     |
+| Menor que     | `~<<`  | compara dos números,si uno es menor que el otro    |
+| Mayor o igual | `>>=` | compara dos números, si uno es mayor o igual que el otro |
+| Menor o igual | `<<=` | compara dos números, si uno es menor o igual que el otro |
+| igual  | `->` | compara si dos números son iguales|
+
+### Operadores Lógicos:
+
+| Operador  | Símbolo   | Descripción               |
+|-----------|-----------|---------------------------|
+| AND      | `PURR_SYNC`    | Realiza una conjunción lógica: devuelve verdadero solo si ambas expresiones son verdaderas. |
+| OR     | `PURR_OR_HISS`   | Realiza una disyunción lógica: devuelve verdadero si al menos una expresión es verdadera.   |
+| NOT | `!~` | Realiza una negación lógica: invierte el valor de una expresión booleana. |
+
 ### Estructuras de control:
 
 - **Condicionales:**
@@ -123,9 +141,19 @@ Las funciones pueden aceptar distintos parámetros.
   ```
 - LLamar una función:
   ```
-  PSPS << miFuncion >> [3, 4]
+  PSPS >> miFuncion << [3, 4]
   ```
-  
+- Para retornar algo desde una función con ```CARRYBACK```:
+  ```
+  CARRYBACK a PURR b
+  ```
+### **Impresión por consola:**
+
+Usa ```MEOW``` cuando quieras mostrar algún mensaje por consola
+
+- Ejemplo:
+  ```MEOW "Bienvenido a CATNIP!!"```
+
 ## **Mensajes de error:**
 
 Este compilador ofrece mensajes claros y adorables para ayudar en la depuración:
