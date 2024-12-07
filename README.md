@@ -17,9 +17,12 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 - *TUNA:* Para cadenas de texto.
 
-- *Estructuras lógicas:* Condicionales **<MEOW> , >MEOW<**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
+- *Estructuras lógicas:* Condicionales, ciclos, y funciones.
   - IF: ```<MEOW>```
   - Else: ```>MEOW<```
+  - For: ```@TWIRL```
+  - While: ```~TWIRL```
+  - Funciones: ```PAWPRINT```
 
 ### **Funciones Diversas:**
 - Funciones con retorno y sin retorno, ideales para estructurar tu código.
@@ -31,7 +34,16 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 ***¡Mensajes de error temáticos!:*** Respuestas adorables (pero claras) cuando algo no sale bien.
 
 ### 🍣 Tabla de contenidos
-
+1. Requisitos
+2. Instalación
+3. Ejemplo de código
+4. Documentación del lenguaje
+   - Tipos de datos
+   - Variables y como declararlas
+   - Operadores Aritméticos
+   - Estructuras de control
+   - Mensajes de error
+6. Creditos
 ### Requisitos:
 
 - python 3.8 o superior
@@ -74,7 +86,7 @@ Para declarar una variable se hacer lo siguiente:
 KIBBLE (variable1) ~> 1
 ```
 
-### Operadores Aritmeticos:
+### Operadores Aritméticos:
 
 | Operador  | Símbolo   | Descripción               |
 |-----------|-----------|---------------------------|
