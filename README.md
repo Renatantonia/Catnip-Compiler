@@ -5,7 +5,7 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 
 ***Si amas a los gatos y la programación, ¡este lenguaje está hecho para ti! (=^-^=)***
 
- ### **🌱 Características principales**
+ ### **🐾 Características principales**
 
 - *Sintaxis amigable:* Comandos que evocan sonidos y acciones de gatos, como ***MEOW, PURR, y PAWPRINT.***
 
@@ -20,5 +20,13 @@ CatNip es un lenguaje de programación inspirado en los adorables movimientos y 
 - *Estructuras lógicas:* Condicionales **(<MEOW>,>MEOW<)**, ciclos **(FOR_TWIRL, WHILE_TWIRL)**, y funciones **(PAWPRINT)**.
 
 ***¡Mensajes de error temáticos!:*** Respuestas adorables (pero claras) cuando algo no sale bien.
+
+## 🍣 Tabla de contenidos
+
+## Requisitos:
+
+- python 3.8 o superior
+- Biblioteca ply (Python Lex-Yacc) Puedes instalarla con:
+  ```pip install ply```
 
 
