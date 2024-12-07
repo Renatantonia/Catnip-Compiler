@@ -82,3 +82,28 @@ MEOW (=^-^=)
     MEOW i
 >.>
 ```
+- **Funciones:**
+- Definir una función:
+  ```
+  PAWPRINT >> miFuncion << [param1, param2] <.<
+    MEOW param1 PURR param2
+  >.>
+  ```
+- LLamar una función:
+  ```
+  PSPS << miFuncion >> [3, 4]
+  ```
+  
+## **Mensajes de error:**
+
+Este compilador ofrece mensajes claros y adorables para ayudar en la depuración:
+
+- *Error sintáctico:* ```(=ＴωＴ=): Error de sintaxis cerca de 'token'.```
+
+- *Operaciones no permitidas:* ```(=ＴωＴ=): Operación no válida entre KIBBLE y TUNA.```
+
+- *Variable no definida:* ```(=ＴωＴ=): Variable 'x' no definida.```
+
+  ### 💖CREDITOS:
+  Este proyecto fue realizado con cariño por ```Renata Cuello Caquisani```, Vicente Sanchéz, Diego Castro.
+
