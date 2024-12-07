@@ -1,1 +1,2 @@
-# Catnip-Compiler
+# CatNip-Compiler
+✨ Bienvenido a CatNip ✨
