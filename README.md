@@ -52,9 +52,11 @@ MEOW (=^-^=)
 
 ### *Tipos de datos:*
 
-`KIBBLE` Enteros
-`MILK` Flotantes
-`TUNA` Cadenas de texto
+- `KIBBLE` Enteros
+- `MILK` Flotantes
+- `TUNA` Cadenas de texto
+  
+### Operadores Aritmeticos:
 
 | Operador  | Símbolo   | Descripción               |
 |-----------|-----------|---------------------------|
@@ -64,3 +66,19 @@ MEOW (=^-^=)
 | División | `PAW` | División de dos números. |
 | Módulo | `NIBBLE` | Resto de una división. |
 
+### Estructuras de control:
+
+- **Condicionales:**
+```
+<MEOW> (x -> 7) <.<
+    MEOW "x es igual a 7!"
+>.>
+>MEOW<
+    MEOW "x es distinto de 7!"
+```
+- **Ciclos:**
+```
+@TWIRL (i ~<< 10) <.<
+    MEOW i
+>.>
+```
